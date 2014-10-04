@@ -1,5 +1,8 @@
 /* Your Website Styles */
 
+body {
+	background: lightpink;
+}
 
 /* Show Grid */
 .showgrid {
